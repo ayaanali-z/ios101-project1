@@ -1,42 +1,44 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Wordle*
 
-Submitted by: **Your Name Here**
+Submitted by: **Ayaan**
 
-**Name of your app** is an app that ... [TODO] 
+**Wordle** is an app that simulates the game wordle, created by Josh Wardle. 
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App displays a keyboard on the screen
-- [ ] When tapping on the keyboard, a letter is shown or deleted (letter selected)
-- [ ] User can play a basic version of Wordle, with different goal words each time
+- [x] App displays a keyboard on the screen
+- [x] When tapping on the keyboard, a letter is shown or deleted (letter selected)
+- [x] User can play a basic version of Wordle, with different goal words each time
 
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface by adding a launchscreen and app icon
+- [x] Improve and customize the user interface by adding a launchscreen and app icon
 - [ ] Run the app on a device rather than in the simulator
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Added large list of potential words. 
 
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
+<div>
+    <a href="https://www.loom.com/share/467f0023aaea47d7b21f4d6a14231c93">
+    </a>
+    <a href="https://www.loom.com/share/467f0023aaea47d7b21f4d6a14231c93">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/467f0023aaea47d7b21f4d6a14231c93-with-play.gif">
+    </a>
+</div>
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had some significant challenges with adding an app icon and custom Launch page, but I was able to resolve them by creating an image set and then adding the png/jpg files to the image set. Also, understanding closures and passing them through in the project was significantly time-consuming. Overall, the lab was well-paced and I completed it in one sitting. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Ayaan Ali]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
